@@ -8,7 +8,7 @@
 - **Nguyễn Đức Anh**
 - **Nguyễn Thị Huyền Trang**
 
-## **Môn học:***  
+## **Môn học:**  
 - DS300.P11 - Hệ khuyến nghị
 # ViNewRec: Bộ Dữ Liệu Tin Tức Xã Hội Tiếng Việt Chất Lượng Cao
 
