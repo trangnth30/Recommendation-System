@@ -1,13 +1,14 @@
 # Thành viên thực hiện
 
-### **Giảng viên hướng dẫn**
+## **Giảng viên hướng dẫn**
 - **Th.S Huỳnh Văn Tín**
 
-### **Nhóm sinh viên thực hiện**
+## **Nhóm sinh viên thực hiện**
 - **Nguyễn Ngọc Yến Nhi**
 - **Nguyễn Đức Anh**
 - **Nguyễn Thị Huyền Trang**
 
+## **Môn học:***  DS300.P11 - Hệ khuyến nghị
 # ViNewRec: Bộ Dữ Liệu Tin Tức Xã Hội Tiếng Việt Chất Lượng Cao
 
 ## Giới thiệu
